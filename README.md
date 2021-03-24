@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hello there :volcano:
 
 - 🔭 I’m currently working on Ruby On Rails :train:
 - 🌱 I’m currently learning Rails :railway_car:

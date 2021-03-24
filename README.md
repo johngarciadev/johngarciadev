@@ -1,4 +1,5 @@
 ## Hello there :volcano:
+## My name is John Garcia
 
 - 🔭 I’m currently working on Ruby On Rails :train:
 - 🌱 I’m currently learning Rails :railway_car:

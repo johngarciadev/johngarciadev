@@ -1,8 +1,8 @@
 ## Hello there :volcano:
 My name is John Garcia
 
-- 🔭 I’m currently working on Ruby On Rails :train:
-- 🌱 I’m currently learning Rails :railway_car:
+- 🔭 I’m currently working on HTML5 :man_factory_worker:
+- 🌱 I’m currently learning HTML5 :man_factory_worker:
 
 
 

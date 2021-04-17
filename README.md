@@ -1,5 +1,5 @@
-## Hello there :volcano:
-My name is John Garcia
+### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am John Garcia!
+
 
 - 🔭 I’m currently working on HTML5 :man_factory_worker:
 - 🌱 I’m currently learning HTML5 :man_factory_worker:

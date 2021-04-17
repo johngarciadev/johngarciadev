@@ -2,7 +2,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/johngarciadev?color=x&style=for-the-badge)
 
-I started to work as a Technical Support Engineer just after my graduation in 2009. After working for 10 years in the same position in many companies, I decided to change my focusing and started to update my previous academic knowledge about programming and software development, joining to a bootcamp to learn about programming languages and new technologies.
+I started to work as a Technical Support Engineer just after my graduation in 2009. After working for 10 years in the same position in different companies, I decided to change my focusing and joined to a bootcamp to learn about programming languages and new technologies.
 
 There I met again with C. I had an interesting experience learning more details about this language, even more than when I learn about it for the first time in the school. Also I started to fall in love with the Linux Command Line and the CLI. My world has changed since then.
 

@@ -28,9 +28,9 @@ This portfolio represents my growing as a developer, my commitment to my new lif
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johngarciadev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johngarciadev&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johngarciadev&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johngarciadev&hide=stars,contribs&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 

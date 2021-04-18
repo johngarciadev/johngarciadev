@@ -3,12 +3,15 @@
 </p>
 
 <p align="center">
-  ### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am John Garcia!
+  # Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am John Garcia!
 </p>
 
-<p align="center">
-  ![Twitter Follow](https://img.shields.io/twitter/follow/johngarciadev?color=x&style=for-the-badge)
-</p>
+--
+
+![Twitter Follow](https://img.shields.io/twitter/follow/johngarciadev?color=x&style=for-the-badge)
+
+## My Bio
+
 I started to work as a Technical Support Engineer just after my graduation in 2009. After working for 10 years in the same position in different companies, I decided to change my focusing and joined to a bootcamp to learn about programming languages and new technologies.
 
 There I met again with C. I had an interesting experience learning more details about this language, even more than when I learn about it for the first time in the school. Also I started to fall in love with the Linux Command Line and the CLI. My world has changed since then.
@@ -34,12 +37,7 @@ This portfolio represents my growing as a developer, my commitment to my new lif
 ---
 
 ## &#x1f4c8; My GitHub Stats
-<span>
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johngarciadev&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-</span>
-<span>
-  [![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johngarciadev&hide=stars,contribs&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
- </span>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johngarciadev&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) [![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johngarciadev&hide=stars,contribs&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 

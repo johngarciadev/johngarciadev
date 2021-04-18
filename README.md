@@ -8,7 +8,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/johngarciadev?color=x&style=for-the-badge)
 
-## My Bio
+## &#9808; My Bio
 
 I started to work as a Technical Support Engineer just after my graduation in 2009. After working for 10 years in the same position in different companies, I decided to change my focusing and joined to a bootcamp to learn about programming languages and new technologies.
 

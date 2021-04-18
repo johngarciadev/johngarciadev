@@ -1,5 +1,7 @@
 ### Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am John Garcia!
 
+<img src="https://pa1.narvii.com/7498/c78a421a38343873e51da6119c1834c7d6d29c60r1-500-240_hq.gif" alt="Kenobi Gif"/>
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/johngarciadev?color=x&style=for-the-badge)
 
 I started to work as a Technical Support Engineer just after my graduation in 2009. After working for 10 years in the same position in different companies, I decided to change my focusing and joined to a bootcamp to learn about programming languages and new technologies.

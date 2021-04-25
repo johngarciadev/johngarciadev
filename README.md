@@ -7,7 +7,7 @@
 ---
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/johngarciadev?label=My%20Followers&style=social) 
-<img src="https://twitter.com/intent/follow?screen_name=johngarciadev"/>
+
 
 ## &#9808; My Bio
 

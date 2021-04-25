@@ -6,7 +6,7 @@
 
 ---
 
-![Twitter Follow](https://img.shields.io/twitter/follow/johngarciadev?color=x&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/johngarciadev?label=My%20Followers&style=social)
 
 ## &#9808; My Bio
 

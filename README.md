@@ -36,7 +36,7 @@ This portfolio represents my growing as a developer, my commitment to my new lif
 ---
 
 ## &#x1f4c8; My GitHub Stats
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johngarciadev&theme=midnight-purple&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) [![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johngarciadev&hide=stars,contribs&theme=midnight-purple)](https://github.com/johngarciadev/github-readme-stats) [![John's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=johngarciadev)](https://github.com/johngarciadev/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johngarciadev&theme=midnight-purple&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) [![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=johngarciadev&hide=stars,contribs&theme=midnight-purple)](https://github.com/johngarciadev/github-readme-stats) [![John's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=johngarciadev&layout=compact&theme=synthwave&v=2)]
 
 ---
 

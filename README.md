@@ -32,8 +32,8 @@ This portfolio represents my growing as a developer, my commitment to my new lif
 <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" alt="Ruby Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" alt="Rails Logo" width="50" height="50"/>
 
-
 ---
+
 
 ## &#x1f4c8; My GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johngarciadev&theme=midnight-purple&langs_count=10)
